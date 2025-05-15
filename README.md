@@ -3,7 +3,6 @@
   Portfólio | Rickzinxx
   
   <header>
-    <img src=""Rickzinxx">
     <h1>Rickzinxx</h1>
     <p>Desenvolvedor Front-End apaixonado por criar experiências web incríveis.</p>
   </header>
