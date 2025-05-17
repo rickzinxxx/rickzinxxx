@@ -25,10 +25,10 @@
   </section>
 
   <section class="projetos">
-    <h2>Projetos</h2>
+    <h2></h2>
     <div class="card">
-      <h3>Catálogo de Animes 2025</h3>
-      <p>Um site completo e responsivo com comentários, design roxo e preto. Criado com HTML, CSS e JavaScript.</p>
+      <h3></h3>
+      <p></p>
     </div>
     <div class="card">
       <h3></h3>
@@ -41,7 +41,7 @@
     <p>Você pode me encontrar aqui:</p>
     <a href="https://github.com/seuusuario" target="_blank">GitHub</a>
     <a href="https://www.linkedin.com/in/seuusuario" target="_blank">LinkedIn</a>
-    <a href="mailto:seuemail@gmail.com">E-mail</a>
+    <a href="rickmarketing81@gmail.com">E-mail</a>
   </section>
 
   <footer>
